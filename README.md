@@ -10,6 +10,7 @@ Mongoose is used for interation with MongoDB.
 
 All the APIs is tested using Postman.
 All the credentials are saved in ".env" file. (Not uploading in git)
+
 ---------------------------------------------------------------------------------------------------------
 
 User can Signup and Login if already have an account.
